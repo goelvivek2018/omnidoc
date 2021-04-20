@@ -92,6 +92,7 @@ var DocumentCodes = map[string]int{
 	"ownership proof":                     240,
 	"kyc docket":                          241,
 	"gst":				       242,	  
+	"Qualification certificate":				       243,
 }
 
 // Valid function validates request
